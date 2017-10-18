@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "burger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojshakewell/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Brian Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ojshakewell/burger/issues"
+  },
+  "homepage": "https://github.com/ojshakewell/burger#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
